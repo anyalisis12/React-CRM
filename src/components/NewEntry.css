@@ -1,8 +1,8 @@
 
 .form {
   max-width: 900px;
-  margin-left: 0;  /* Align form to the left */
-  margin-right: auto;  /* Prevent centering */
+  margin-left: 0;  
+  margin-right: auto;
   padding: 10px;
   background: #f8f9fa;
   border-radius: 10px;
