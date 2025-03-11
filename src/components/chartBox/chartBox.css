@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: space-between;
     height: 100%;
-    background: #b5b0b0; /* Light gray background (remove if not needed) */
+    background: #b5b0b0;
     padding: 10px;
     border-radius: 10px;
     width: 100%;
@@ -35,7 +35,7 @@ h4 {
     flex: 2;
     display: flex;
     flex-direction: column;
-    align-items: flex-end; /* Aligns text and chart to the right */
+    align-items: flex-end; 
     text-align: right;
 }
 
@@ -47,16 +47,16 @@ h4 {
 .texts {
     display: flex;
     flex-direction: column;
-    align-items: flex-end; /* Aligns percentage and duration to the right */
+    align-items: flex-end;
 }
 
 .percentage {
     font-size: 20px;
     font-weight: bold;
-    color: #4CAF50; /* Green color */
+    color: #4CAF50; 
 }
 
 .duration {
     font-size: 14px;
-    color: #000; /* Black color */
+    color: #000; 
 }
