@@ -62,7 +62,7 @@ const CropCarousel = () => {
       </div>
       <div className="container2 my-5">
               <div className="row align-items-center">
-                  {/* Left Side - Text Content */}
+                  
                   <div className="col-md-6">
                       <h2 className="text-primary">Why Precision Irrigation in Banana Cultivation?</h2>
                       <ul className="list-unstyled">
@@ -93,7 +93,7 @@ const CropCarousel = () => {
                       </ul>
                   </div>
 
-                  {/* Right Side - Image */}
+                  
                   <div className="col-md-6 text-center">
                       <img
                           src="https://www.netafimindia.com/cdn-cgi/image/format=auto,fit=crop,quality=80,width=1500,/bynder/CAF80337-7828-41DE-9B8FC185140BE4C6-hand-with-dripping---drop-by-drop.jpg"
